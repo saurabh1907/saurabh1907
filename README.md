@@ -17,7 +17,7 @@ This summer I did two internships at ClaimFound and IHS Markit broadening my und
 - 📫 How to reach me: [saurabh.prasad197@gmail.com](mailto:saurabh.prasad197@gmail.com) or LinkedIn inmail
 - 😄 Pronouns: He/him
 - ⚡ Hobbies: Chess, Photography, Reading about new Tech
-- 💼 Open for Full Time Roles.
+- 💼 Open for Full Time Roles in the United States.
 
 ## Connect with Me 🤝🏻
 
