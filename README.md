@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!---
-![](https://github.com/Dineshkarthik/Dineshkarthik/blob/master/assets/cover.jpg)
+![](https://github.com/saurabh1907/assets/cover.jpg)
 -->
 `My Superpower - Your code starts working when you show me the problem and I merely stare at it!`
 
@@ -17,14 +17,13 @@ This summer I did two internships at ClaimFound and IHS Markit broadening my und
 - 📫 How to reach me: [saurabh.prasad197@gmail.com](mailto:saurabh.prasad197@gmail.com) or LinkedIn inmail
 - 😄 Pronouns: He/him
 - ⚡ Hobbies: Chess, Photography, Reading about new Tech
+- 💼 Open for Full Time Roles.
 
 ## Connect with Me 🤝🏻
 
 <p align="center">
-🌐 &nbsp; Website: https://saurabhprasad.web.app/
-<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-http%3A%2F%2Flinkedin.com%2Fin%2Fsaurabhkprasad-blue)](linkedin.com/in/saurabhkprasad)
-<br>
+<a href="https://saurabhprasad.web.app"><img alt="Website" src="https://img.shields.io/static/v1?label=Website&message=saurabhprasad.web.app&color=Blue?style=flat&logo=google-chrome"></a>
+<a href="https://linkedin.com/in/saurabhkprasad"><img alt="LinkedIn" src="https://img.shields.io/static/v1?label=LinkedIn&message=linkedin.com/in/saurabhkprasad&color=Blue?style=flat&logo=linkedin"></a>
 <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=saurabh1907">
 </p>
 
