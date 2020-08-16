@@ -22,7 +22,9 @@ This summer I did two internships at ClaimFound and IHS Markit broadening my und
 
 <p align="center">
 🌐 &nbsp; Website: https://saurabhprasad.web.app/
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-http%3A%2F%2Flinkedin.com%2Fin%2Fsaurabhkprasad-blue)](linkedin.com/in/saurabhkprasad)
+<br>
 <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=saurabh1907">
 </p>
 
